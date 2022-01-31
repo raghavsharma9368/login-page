@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    margin: auto;
+    background: rgb(149, 150, 255);
+    font-family: sans-serif;
+}
+
+.login-page{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    background: rgb(252, 252, 252);
+    color: rgb(0, 0, 0); 
+    border-radius: 10px;
+    padding-top: 40px;
+    margin: 100px auto 50px;
+    
+}
+
+h3{
+    font-size: 150%;
+}
+
+.login-header p{
+    font-size: 90%;
+    padding-top: 10px;
+}
+
+input{
+    width: 70%;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 14px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.footer-text p{
+    padding-top: 20px;
+    font-size: 90%;
+}
+
+button{
+      width: 60%;
+      padding: 13px 9px;
+      font-weight: 700;
+      border-radius: 15px;
+      background-color: rgb(3, 3, 209);
+      color: white;
+      font-size: 110%;
+}
